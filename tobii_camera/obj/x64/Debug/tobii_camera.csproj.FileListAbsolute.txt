@@ -1,0 +1,268 @@
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\msvcp120.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\msvcr120.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_core2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_video2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\msvcp120.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\msvcr120.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_core2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_video2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\tobii_camera.exe
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\tobii_camera.pdb
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.csprojResolveAssemblyReference.cache
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.Camera.resources
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.Properties.Resources.resources
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.Tobii.resources
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.メイン画面.resources
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.csproj.GenerateResource.Cache
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.exe
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.pdb
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\Tobii.EyeX.Client.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\tobii_camera.exe.config
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\bin\x64\Debug\EyeXFramework.dll
+C:\Users\yamamuro\Documents\GitHub\C_sharp\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.描画画面.resources
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\tobii_camera.exe.config
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.exe
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.pdb
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\msvcp120.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\msvcr120.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_core2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_video2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\msvcp120.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\msvcr120.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_core2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_video2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\Tobii.EyeX.Client.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\tobii_camera.exe
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\tobii_camera.pdb
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\student\Desktop\tobii_camera\tobii_camera\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.Camera.resources
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.Properties.Resources.resources
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.Tobii.resources
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.メイン画面.resources
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.描画画面.resources
+C:\Users\student\Desktop\tobii_camera\tobii_camera\obj\x64\Debug\tobii_camera.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\tobii_camera.exe.config
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.exe
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.pdb
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\Tobii.EyeX.Client.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\msvcp120.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\msvcr120.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_core2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_video2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\msvcp120.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\msvcr120.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_core2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_video2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\tobii_camera.exe
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\tobii_camera.pdb
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.Camera.resources
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.Properties.Resources.resources
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.Tobii.resources
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.メイン画面.resources
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.描画画面.resources
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\tobii_camera - コピー\tobii_camera\obj\x64\Debug\tobii_camera.Arduino.resources
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\tobii_camera.exe.config
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.exe
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.pdb
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\Tobii.EyeX.Client.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\msvcp120.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\msvcr120.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_core2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_video2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\msvcp120.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\msvcr120.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_core2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_video2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\tobii_camera.exe
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\tobii_camera.pdb
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.xml
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.Arduino.resources
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.Camera.resources
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.Properties.Resources.resources
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.Tobii.resources
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.メイン画面.resources
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.描画画面.resources
+C:\Users\student\Desktop\tobii_camera_test\tobii_camera\obj\x64\Debug\tobii_camera.csproj.GenerateResource.Cache
